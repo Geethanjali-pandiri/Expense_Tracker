@@ -1,0 +1,10 @@
+{
+    "income": 1000.0,
+    "expenses": [
+        {
+            "name": "books",
+            "amount": 300.0
+        }
+    ],
+    "balance": 700.0
+}
